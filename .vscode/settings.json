@@ -1,0 +1,6 @@
+{
+    "git.fetchOnPull": true,
+    "search.useGlobalIgnoreFiles": true,
+    "search.useParentIgnoreFiles": true,
+    "git.allowForcePush": true
+}
